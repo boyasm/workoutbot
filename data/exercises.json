@@ -1,0 +1,140 @@
+{
+    "chest":{
+        "chest1": {
+            "display_name": "Bar Dips",
+            "prob": 0.2,
+            "variant": null,
+            "variant_prob": null
+        },
+        "chest2": {
+            "display_name": "Chest Press",
+            "prob": 0.4,
+            "variant": ["Flat", "Incline"],
+            "variant_prob": [0.67, 0.33]
+        },
+        "chest3": {
+            "display_name": "Push Up",
+            "prob": 0.4,
+            "variant": ["Narrow", "Wide", "Decline"],
+            "variant_prob": [0.35, 0.15, 0.5]
+        }
+    },
+    "leg":{
+        "leg1": {
+            "display_name": "Deadlift",
+            "prob": 0,
+            "variant": ["Dumbbell", "Barbell"],
+            "variant_prob": [0.67, 0.33]
+        },
+        "leg2": {
+            "display_name": "Lunge",
+            "prob": 0.25,
+            "variant": ["Reverse", "Front"],
+            "variant_prob": [0.5, 0.5]
+        },
+        "leg3": {
+            "display_name": "Squat",
+            "prob": 0.5,
+            "variant": null,
+            "variant_prob": null
+        },
+        "leg4": {
+            "display_name": "Split Squat",
+            "prob": 0.25,
+            "variant": null,
+            "variant_prob": null
+        }
+    },
+    "bicep":{
+        "bicep1": {
+            "display_name": "Dumbbell Curl",
+            "prob": 0.38,
+            "variant": ["Together", "Alternating"],
+            "variant_prob": [0.5, 0.5]
+        },
+        "bicep2": {
+            "display_name": "Hammer Curl",
+            "prob": 0.37,
+            "variant": ["Together", "Alternating"],
+            "variant_prob": [0.5, 0.5]
+        },
+        "bicep3": {
+            "display_name": "Barbell Curl",
+            "prob": 0.25,
+            "variant": null,
+            "variant_prob": null
+        }
+    },
+    "tricep":{
+        "tricep1": {
+            "display_name": "Tricep Extension",
+            "prob": 0.5,
+            "variant": null,
+            "variant_prob": null
+        },
+        "tricep2": {
+            "display_name": "Skullcrusher",
+            "prob": 0.25,
+            "variant": null,
+            "variant_prob": null
+        },
+        "tricep3": {
+            "display_name": "Bench Dips",
+            "prob": 0.25,
+            "variant": null,
+            "variant_prob": null
+        }
+    },
+    "shoulder":{
+        "shoulder1": {
+            "display_name": "Shoulder Raise",
+            "prob": 0.45,
+            "variant": ["Front", "Side", "T"],
+            "variant_prob": [0.34, 0.33, 0.33]
+        },
+        "shoulder2": {
+            "display_name": "Plate Car Driver",
+            "prob": 0.09,
+            "variant": null,
+            "variant_prob": null
+        },
+        "shoulder3": {
+            "display_name": "Seated Shoulder Press",
+            "prob": 0.37,
+            "variant": null,
+            "variant_prob": null
+        },
+        "shoulder4": {
+            "display_name": "Shoulder Shrug",
+            "prob": 0.09,
+            "variant": null,
+            "variant_prob": null
+        }
+    },
+    "back":{
+        "back1": {
+            "display_name": "Barbell Hinge Row",
+            "prob": 0.33,
+            "variant": ["Overhand", "Underhand"],
+            "variant_prob": [0.5, 0.5]
+        },
+        "back2": {
+            "display_name": "Dumbbell Hinge Row",
+            "prob": 0.33,
+            "variant": null,
+            "variant_prob": null
+        },
+        "back3": {
+            "display_name": "Dumbbell Bench Row",
+            "prob": 0.2,
+            "variant": null,
+            "variant_prob": null
+        },
+        "back4": {
+            "display_name": "Up",
+            "prob": 0.14,
+            "variant": ["Pull", "Chin"],
+            "variant_prob": [0.5, 0.5]
+        }
+    }
+}
