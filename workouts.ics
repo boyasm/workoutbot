@@ -1,2 +1,12 @@
 BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20240702
+DTEND;VALUE=DATE:20240703
+DESCRIPTION:** SET 1 **\nBarbell Deadlift @ 25/50/60 (KG: 11.5/22.5/27)\nS
+ plit Squat @ 40/45/50 (KG: 18/20.5/22.5)\n** SET 2 **\nSeated Shoulder Pre
+ ss @ 30/35/35 (KG: 13.5/16/16)\nWide Push Up\n** SET 3 **\nAlternating Ham
+ mer Curl @ 25/30/30 (KG: 11.5/13.5/13.5)\nTricep Extension @ 30/40/45 (KG:
+  13.5/18/20.5)\n
+END:VEVENT
 END:VCALENDAR
