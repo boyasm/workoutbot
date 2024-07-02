@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20240708
+DTEND;VALUE=DATE:20240709
+DESCRIPTION:** SET 1 **\nBarbell Deadlift @ 25/50/60 (KG: 11.5/22.5/27)\nS
+ quat @ 25/35/40 (KG: 11.5/16/18)\n** SET 2 **\nSkullcrusher @ 20/25/30 (KG
+ : 9/11.5/13.5)\nBarbell Curl @ 10/15/17.5 (KG: 4.5/7/8)\n** SET 3 **\nUnde
+ rhand Barbell Hinge Row @ 25/30/35 (KG: 11.5/13.5/16)\nShoulder Shrug @ 40
+ /45/50 (KG: 18/20.5/22.5)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20240703
+DTEND;VALUE=DATE:20240704
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 65/75/85 (KG: 29.5/34/38.5)\n
+ Reverse Lunge @ 40/45/50 (KG: 18/20.5/22.5)\n** SET 2 **\nAlternating Hamm
+ er Curl @ 25/30/30 (KG: 11.5/13.5/13.5)\nTricep Extension @ 30/40/45 (KG: 
+ 13.5/18/20.5)\n** SET 3 **\nUnderhand Barbell Hinge Row @ 25/30/35 (KG: 11
+ .5/13.5/16)\nT Shoulder Raise @ 15/17.5/20 (KG: 7/8/9)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240706
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 65/75/85 (KG: 29.5/34/38.5)\n
+ Squat @ 25/35/40 (KG: 11.5/16/18)\n** SET 2 **\nAlternating Dumbbell Curl 
+ @ 25/30/30 (KG: 11.5/13.5/13.5)\nTricep Extension @ 30/40/45 (KG: 13.5/18/
+ 20.5)\n** SET 3 **\nFront Shoulder Raise @ 15/17.5/20 (KG: 7/8/9)\nWide Pu
+ sh Up\n
+END:VEVENT
+END:VCALENDAR
