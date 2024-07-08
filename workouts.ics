@@ -1,2 +1,32 @@
 BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20240708
+DTEND;VALUE=DATE:20240709
+DESCRIPTION:** SET 1 **\nBarbell Deadlift @ 25/50/60 (KG: 11.5/22.5/27)\nR
+ everse Lunge @ 40/45/50 (KG: 18/20.5/22.5)\n** SET 2 **\nNarrow Push Up\nO
+ verhand Barbell Hinge Row @ 20/25/30 (KG: 9/11.5/13.5)\n** SET 3 **\nToget
+ her Hammer Curl @ 25/30/30 (KG: 11.5/13.5/13.5)\nSide Shoulder Raise @ 15/
+ 17.5/20 (KG: 7/8/9)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20240710
+DTEND;VALUE=DATE:20240711
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 65/75/85 (KG: 29.5/34/38.5)\n
+ Split Squat @ 40/45/50 (KG: 18/20.5/22.5)\n** SET 2 **\nBarbell Curl @ 10/
+ 15/17.5 (KG: 4.5/7/8)\nDumbbell Hinge Row @ 45/50/55 (KG: 20.5/22.5/25)\n*
+ * SET 3 **\nDecline Push Up\nSeated Shoulder Press @ 30/35/35 (KG: 13.5/16
+ /16)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240713
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 65/75/85 (KG: 29.5/34/38.5)\n
+ Front Lunge @ 35/40/45 (KG: 16/18/20.5)\n** SET 2 **\nTricep Extension @ 3
+ 0/40/45 (KG: 13.5/18/20.5)\nDumbbell Bench Row @ 50/45/50 (KG: 22.5/20.5/2
+ 2.5)\n** SET 3 **\nSeated Shoulder Press @ 30/35/35 (KG: 13.5/16/16)\nBarb
+ ell Curl @ 10/15/17.5 (KG: 4.5/7/8)\n
+END:VEVENT
 END:VCALENDAR
