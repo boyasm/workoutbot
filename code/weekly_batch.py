@@ -6,6 +6,7 @@ from icalendar import Calendar, Event, vCalAddress, vText
 from datetime import datetime, timedelta
 from pathlib import Path
 import os
+from numbers_parser import Document
 
 exec(open('code/setup.py').read())
 

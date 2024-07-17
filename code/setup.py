@@ -15,8 +15,22 @@ f.close()
 #endregion
 
 #region ###########################  Opening weights file #####################  
-ic = "~/Library/Mobile Documents/com~apple~CloudDocs"
-data_weights = pd.read_excel(ic + "/Weights.xlsx")
+
+#path to icloud drive
+#numbers files need an absolute path
+ic = "/".join(os.getcwd().split("/", 3)[:3]) + "/Library/Mobile Documents/com~apple~CloudDocs/" 
+
+#numbers file version
+doc = Document(ic + "Weights.numbers")
+numbers_sheets = doc.sheets
+numbers_tables = numbers_sheets[0].tables
+numbers_data = numbers_tables[0].rows(values_only=True)
+data_weights = pd.DataFrame(numbers_data[1:], columns=numbers_data[0])
+
+#excel file version
+# ic = "~/Library/Mobile Documents/com~apple~CloudDocs"
+# data_weights = pd.read_excel(ic + "/Weights.xlsx")
+
 #endregion
 
 #region ###########################  Define parameters from the exercise json #####################  
