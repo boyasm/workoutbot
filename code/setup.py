@@ -15,8 +15,8 @@ f.close()
 #endregion
 
 #region ###########################  Opening weights file #####################  
-# TODO replace with Google Doc
-data_weights = pd.read_excel("Weights.xlsx")
+ic = "~/Library/Mobile\ Documents/com~apple~CloudDocs"
+data_weights = pd.read_excel(ic + "Weights.xlsx")
 #endregion
 
 #region ###########################  Define parameters from the exercise json #####################  
