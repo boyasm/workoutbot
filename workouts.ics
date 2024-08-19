@@ -148,4 +148,32 @@ DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 65/75/85 (KG: 29.5/34/38.5)\n
  \n** SET 3 **\nDecline Push Up\nTricep Extension @ 30/40/45 (KG: 13.5/18/2
  0.5)\n
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20240819
+DTEND;VALUE=DATE:20240820
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 65/75/85 (KG: 29.5/34/38.5)\n
+ Squat @ 35/40/45 (KG: 16/18/20.5)\n** SET 2 **\nTricep Extension @ 30/40/4
+ 5 (KG: 13.5/18/20.5)\nIncline Chest Press @ 35/40/45 (KG: 16/18/20.5)\n** 
+ SET 3 **\nChin Up\nSeated Shoulder Press @ 30/35/40 (KG: 13.5/16/18)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20240821
+DTEND;VALUE=DATE:20240822
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 65/75/85 (KG: 29.5/34/38.5)\n
+ Reverse Lunge @ 40/45/50 (KG: 18/20.5/22.5)\n** SET 2 **\nBench Dips\nFlat
+  Chest Press @ 40/45/50 (KG: 18/20.5/22.5)\n** SET 3 **\nDumbbell Bench Ro
+ w @ 40/45/50 (KG: 18/20.5/22.5)\nT Shoulder Raise @ 15/17.5/20 (KG: 7/8/9)
+ \n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20240823
+DTEND;VALUE=DATE:20240824
+DESCRIPTION:** SET 1 **\nBarbell Deadlift @ 25/50/60 (KG: 11.5/22.5/27)\nS
+ quat @ 35/40/45 (KG: 16/18/20.5)\n** SET 2 **\nBarbell Curl @ 10/15/17.5 (
+ KG: 4.5/7/8)\nUnderhand Barbell Hinge Row @ 25/35/40 (KG: 11.5/16/18)\n** 
+ SET 3 **\nDecline Push Up\nBench Dips\n
+END:VEVENT
 END:VCALENDAR
