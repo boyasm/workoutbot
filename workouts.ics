@@ -263,4 +263,13 @@ DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 65/75/85 (KG: 29.5/34/38.5)\n
   30/40/45 (KG: 13.5/18/20.5)\nFront Shoulder Raise @ 15/17.5/20 (KG: 7/8/9
  )\n
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240917
+DESCRIPTION:** SET 1 **\nBarbell Deadlift @ 50/60/70 (KG: 22.5/27/32)\nSqu
+ at @ 35/40/45 (KG: 16/18/20.5)\n** SET 2 **\nDecline Push Up\nBench Dips\n
+ ** SET 3 **\nDumbbell Bench Row @ 40/45/50 (KG: 18/20.5/22.5)\nAlternating
+  Hammer Curl @ 25/30/30 (KG: 11.5/13.5/13.5)\n
+END:VEVENT
 END:VCALENDAR
