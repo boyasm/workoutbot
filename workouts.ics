@@ -322,4 +322,32 @@ DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 65/75/85 (KG: 29.5/34/38.5)\n
  SET 3 **\nSeated Shoulder Press @ 30/35/40 (KG: 13.5/16/18)\nDumbbell Hing
  e Row @ 45/50/55 (KG: 20.5/22.5/25)\n
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241001
+DESCRIPTION:** SET 1 **\nBarbell Deadlift @ 50/60/70 (KG: 22.5/27/32)\nSqu
+ at @ 35/40/45 (KG: 16/18/20.5)\n** SET 2 **\nDumbbell Hinge Row @ 45/50/55
+  (KG: 20.5/22.5/25)\nDecline Push Up\n** SET 3 **\nPlate Car Driver @ 10/1
+ 0/10 (KG: 4.5/4.5/4.5)\nTricep Extension @ 30/40/45 (KG: 13.5/18/20.5)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20241002
+DTEND;VALUE=DATE:20241003
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 65/75/85 (KG: 29.5/34/38.5)\n
+ Squat @ 35/40/45 (KG: 16/18/20.5)\n** SET 2 **\nSkullcrusher @ 20/25/30 (K
+ G: 9/11.5/13.5)\nTogether Hammer Curl @ 25/30/30 (KG: 11.5/13.5/13.5)\n** 
+ SET 3 **\nBar Dips\nDumbbell Hinge Row @ 45/50/55 (KG: 20.5/22.5/25)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241005
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 65/75/85 (KG: 29.5/34/38.5)\n
+ Squat @ 35/40/45 (KG: 16/18/20.5)\n** SET 2 **\nIncline Chest Press @ 35/4
+ 0/45 (KG: 16/18/20.5)\nSeated Shoulder Press @ 30/35/40 (KG: 13.5/16/18)\n
+ ** SET 3 **\nUnderhand Barbell Hinge Row @ 25/35/40 (KG: 11.5/16/18)\nSkul
+ lcrusher @ 20/25/30 (KG: 9/11.5/13.5)\n
+END:VEVENT
 END:VCALENDAR
