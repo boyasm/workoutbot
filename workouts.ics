@@ -760,4 +760,33 @@ DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 65/80/85 (KG: 29.5/36.5/38.5)
   Barbell Hinge Row @ 30/40/45 (KG: 13.5/18/20.5)\nSkullcrusher @ 20/25/30 
  (KG: 9/11.5/13.5)\n
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20250113
+DTEND;VALUE=DATE:20250114
+DESCRIPTION:** SET 1 **\nBarbell Deadlift @ 50/60/70 (KG: 22.5/27/32)\nSqu
+ at @ 40/50/55 (KG: 18/22.5/25)\n** SET 2 **\nTricep Extension @ 40/45/50 (
+ KG: 18/20.5/22.5)\nDumbbell Bench Row @ 40/45/50 (KG: 18/20.5/22.5)\n** SE
+ T 3 **\nFront Shoulder Raise @ 15/17.5/20 (KG: 7/8/9)\nFlat Chest Press @ 
+ 40/45/50 (KG: 18/20.5/22.5)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 65/80/85 (KG: 29.5/36.5/38.5)
+ \nSquat @ 40/50/55 (KG: 18/22.5/25)\n** SET 2 **\nAlternating Dumbbell Cur
+ l @ 25/30/30 (KG: 11.5/13.5/13.5)\nPull Up\n** SET 3 **\nFlat Chest Press 
+ @ 40/45/50 (KG: 18/20.5/22.5)\nSkullcrusher @ 20/25/30 (KG: 9/11.5/13.5)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20250117
+DTEND;VALUE=DATE:20250118
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 65/80/85 (KG: 29.5/36.5/38.5)
+ \nReverse Lunge @ 40/45/50 (KG: 18/20.5/22.5)\n** SET 2 **\nSkullcrusher @
+  20/25/30 (KG: 9/11.5/13.5)\nBarbell Curl @ 10/15/17.5 (KG: 4.5/7/8)\n** S
+ ET 3 **\nSeated Shoulder Press @ 30/35/40 (KG: 13.5/16/18)\nOverhand Barbe
+ ll Hinge Row @ 30/40/45 (KG: 13.5/18/20.5)\n
+END:VEVENT
 END:VCALENDAR
