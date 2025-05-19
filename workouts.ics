@@ -1290,4 +1290,32 @@ DESCRIPTION:** SET 1 **\nBarbell Deadlift @ 50/60/70 (KG: 22.5/27/32)\nRev
  25/30 (KG: 9/11.5/13.5)\nUnderhand Barbell Hinge Row @ 35/45/50 (KG: 16/20
  .5/22.5)\n
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250520
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 70/85/90 (KG: 32/38.5/41)\nSq
+ uat @ 50/55/57.5 (KG: 22.5/25/26)\n** SET 2 **\nSkullcrusher @ 20/25/30 (K
+ G: 9/11.5/13.5)\nSeated Shoulder Press @ 30/35/40 (KG: 13.5/16/18)\n** SET
+  3 **\nWide Push Up\nBarbell Curl @ 10/15/17.5 (KG: 4.5/7/8)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20250521
+DTEND;VALUE=DATE:20250522
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 70/85/90 (KG: 32/38.5/41)\nSq
+ uat @ 50/55/57.5 (KG: 22.5/25/26)\n** SET 2 **\nUnderhand Barbell Hinge Ro
+ w @ 35/45/50 (KG: 16/20.5/22.5)\nBench Dips\n** SET 3 **\nSeated Shoulder 
+ Press @ 30/35/40 (KG: 13.5/16/18)\nDecline Push Up\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250524
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 70/85/90 (KG: 32/38.5/41)\nSq
+ uat @ 50/55/57.5 (KG: 22.5/25/26)\n** SET 2 **\nAlternating Dumbbell Curl 
+ @ 25/30/30 (KG: 11.5/13.5/13.5)\nBench Dips\n** SET 3 **\nDumbbell Hinge R
+ ow @ 50/55/60 (KG: 22.5/25/27)\nPlate Car Driver @ 10/10/10 (KG: 4.5/4.5/4
+ .5)\n
+END:VEVENT
 END:VCALENDAR
