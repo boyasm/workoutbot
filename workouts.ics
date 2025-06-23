@@ -1436,4 +1436,33 @@ DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 70/85/90 (KG: 32/38.5/41)\nSp
  .5/13.5/13.5)\n** SET 3 **\nTricep Extension @ 40/45/50 (KG: 18/20.5/22.5)
  \nFlat Chest Press @ 45/50/55 (KG: 20.5/22.5/25)\n
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250624
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 70/85/90 (KG: 32/38.5/41)\nSq
+ uat @ 55/60/65 (KG: 25/27/29.5)\n** SET 2 **\nUnderhand Barbell Hinge Row 
+ @ 35/45/50 (KG: 16/20.5/22.5)\nTricep Extension @ 40/45/50 (KG: 18/20.5/22
+ .5)\n** SET 3 **\nBarbell Curl @ 10/15/17.5 (KG: 4.5/7/8)\nFront Shoulder 
+ Raise @ 15/17.5/22.5 (KG: 7/8/10)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20250625
+DTEND;VALUE=DATE:20250626
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 70/85/90 (KG: 32/38.5/41)\nSq
+ uat @ 55/60/65 (KG: 25/27/29.5)\n** SET 2 **\nTricep Extension @ 40/45/50 
+ (KG: 18/20.5/22.5)\nNarrow Push Up\n** SET 3 **\nBarbell Curl @ 10/15/17.5
+  (KG: 4.5/7/8)\nShoulder Shrug @ 50/55/60 (KG: 22.5/25/27)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250628
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 70/85/90 (KG: 32/38.5/41)\nSp
+ lit Squat @ 40/45/50 (KG: 18/20.5/22.5)\n** SET 2 **\nTricep Extension @ 4
+ 0/45/50 (KG: 18/20.5/22.5)\nBarbell Curl @ 10/15/17.5 (KG: 4.5/7/8)\n** SE
+ T 3 **\nOverhand Barbell Hinge Row @ 35/45/50 (KG: 16/20.5/22.5)\nNarrow P
+ ush Up\n
+END:VEVENT
 END:VCALENDAR
