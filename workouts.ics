@@ -1465,4 +1465,34 @@ DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 70/85/90 (KG: 32/38.5/41)\nSp
  T 3 **\nOverhand Barbell Hinge Row @ 35/45/50 (KG: 16/20.5/22.5)\nNarrow P
  ush Up\n
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 70/85/90 (KG: 32/38.5/41)\nSp
+ lit Squat @ 40/45/50 (KG: 18/20.5/22.5)\n** SET 2 **\nSkullcrusher @ 20/25
+ /30 (KG: 9/11.5/13.5)\nDumbbell Bench Row @ 45/50/55 (KG: 20.5/22.5/25)\n*
+ * SET 3 **\nNarrow Push Up\nTogether Hammer Curl @ 25/30/35 (KG: 11.5/13.5
+ /16)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20250702
+DTEND;VALUE=DATE:20250703
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 70/85/90 (KG: 32/38.5/41)\nSp
+ lit Squat @ 40/45/50 (KG: 18/20.5/22.5)\n** SET 2 **\nDecline Push Up\nTog
+ ether Dumbbell Curl @ 25/30/35 (KG: 11.5/13.5/16)\n** SET 3 **\nOverhand B
+ arbell Hinge Row @ 35/45/50 (KG: 16/20.5/22.5)\nSeated Shoulder Press @ 30
+ /35/40 (KG: 13.5/16/18)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250705
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 70/85/90 (KG: 32/38.5/41)\nSp
+ lit Squat @ 40/45/50 (KG: 18/20.5/22.5)\n** SET 2 **\nTricep Extension @ 4
+ 0/45/50 (KG: 18/20.5/22.5)\nNarrow Push Up\n** SET 3 **\nAlternating Dumbb
+ ell Curl @ 25/30/30 (KG: 11.5/13.5/13.5)\nSeated Shoulder Press @ 30/35/40
+  (KG: 13.5/16/18)\n
+END:VEVENT
 END:VCALENDAR
