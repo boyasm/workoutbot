@@ -1673,4 +1673,14 @@ DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 85/85/90 (KG: 38.5/38.5/41)\n
  /10)\n** SET 3 **\nDumbbell Hinge Row @ 50/55/60 (KG: 22.5/25/27)\nBench D
  ips\n
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250812
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 85/85/90 (KG: 38.5/38.5/41)\n
+ Squat @ 50/60/67.5 (KG: 22.5/27/30.5)\n** SET 2 **\nBarbell Curl @ 10/15/1
+ 7.5 (KG: 4.5/7/8)\nOverhand Barbell Hinge Row @ 35/45/50 (KG: 16/20.5/22.5
+ )\n** SET 3 **\nT Shoulder Raise @ 15/17.5/22.5 (KG: 7/8/10)\nTricep Exten
+ sion @ 40/50/55 (KG: 18/22.5/25)\n
+END:VEVENT
 END:VCALENDAR
