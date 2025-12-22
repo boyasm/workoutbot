@@ -2214,4 +2214,33 @@ DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 85/85/90 (KG: 38.5/38.5/41)\n
  ge Row @ 55/55/60 (KG: 25/25/27)\n** SET 3 **\nBarbell Curl @ 10/15/17.5 (
  KG: 4.5/7/8)\nFront Shoulder Raise @ 15/17.5/22.5 (KG: 7/8/10)\n
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20251223
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 85/85/90 (KG: 38.5/38.5/41)\n
+ Squat @ 50/60/67.5 (KG: 22.5/27/30.5)\n** SET 2 **\nSkullcrusher @ 25/25/3
+ 0 (KG: 11.5/11.5/13.5)\nDecline Push Up\n** SET 3 **\nSeated Shoulder Pres
+ s @ 30/40/40 (KG: 13.5/18/18)\nAlternating Dumbbell Curl @ 25/30/35 (KG: 1
+ 1.5/13.5/16)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251225
+DESCRIPTION:** SET 1 **\nBarbell Deadlift @ 50/60/70 (KG: 22.5/27/32)\nSpl
+ it Squat @ 45/45/50 (KG: 20.5/20.5/22.5)\n** SET 2 **\nBar Dips\nSkullcrus
+ her @ 25/25/30 (KG: 11.5/11.5/13.5)\n** SET 3 **\nDumbbell Bench Row @ 55/
+ 55/60 (KG: 25/25/27)\nSeated Shoulder Press @ 30/40/40 (KG: 13.5/18/18)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20251226
+DTEND;VALUE=DATE:20251227
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 85/85/90 (KG: 38.5/38.5/41)\n
+ Squat @ 50/60/67.5 (KG: 22.5/27/30.5)\n** SET 2 **\nNarrow Push Up\nDumbbe
+ ll Hinge Row @ 55/55/60 (KG: 25/25/27)\n** SET 3 **\nTogether Hammer Curl 
+ @ 25/30/35 (KG: 11.5/13.5/16)\nShoulder Shrug @ 55/60/65 (KG: 25/27/29.5)\
+ n
+END:VEVENT
 END:VCALENDAR
