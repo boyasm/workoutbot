@@ -2358,4 +2358,32 @@ DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 85/85/90 (KG: 38.5/38.5/41)\n
  l Curl @ 25/30/35 (KG: 11.5/13.5/16)\nTricep Extension @ 40/50/55 (KG: 18/
  22.5/25)\n** SET 3 **\nPull Up\nNarrow Push Up\n
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+DESCRIPTION:** SET 1 **\nBarbell Deadlift @ 50/60/70 (KG: 22.5/27/32)\nSqu
+ at @ 50/60/67.5 (KG: 22.5/27/30.5)\n** SET 2 **\nChin Up\nSkullcrusher @ 2
+ 5/25/30 (KG: 11.5/11.5/13.5)\n** SET 3 **\nDecline Push Up\nT Shoulder Rai
+ se @ 15/17.5/22.5 (KG: 7/8/10)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+DESCRIPTION:** SET 1 **\nBarbell Deadlift @ 50/60/70 (KG: 22.5/27/32)\nSqu
+ at @ 50/60/67.5 (KG: 22.5/27/30.5)\n** SET 2 **\nSkullcrusher @ 25/25/30 (
+ KG: 11.5/11.5/13.5)\nDecline Push Up\n** SET 3 **\nT Shoulder Raise @ 15/1
+ 7.5/22.5 (KG: 7/8/10)\nChin Up\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 85/85/90 (KG: 38.5/38.5/41)\n
+ Split Squat @ 45/45/50 (KG: 20.5/20.5/22.5)\n** SET 2 **\nOverhand Barbell
+  Hinge Row @ 45/45/50 (KG: 20.5/20.5/22.5)\nSeated Shoulder Press @ 30/40/
+ 40 (KG: 13.5/18/18)\n** SET 3 **\nFlat Chest Press @ 45/50/55 (KG: 20.5/22
+ .5/25)\nBarbell Curl @ 10/15/17.5 (KG: 4.5/7/8)\n
+END:VEVENT
 END:VCALENDAR
