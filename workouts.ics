@@ -2623,4 +2623,33 @@ DESCRIPTION:** SET 1 **\nDumbbell Deadlift @ 85/85/90 (KG: 38.5/38.5/41)\n
  )\n** SET 3 **\nDecline Push Up\nAlternating Dumbbell Curl @ 25/30/35 (KG:
   11.5/13.5/16)\n
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+DESCRIPTION:** SET 1 **\nBarbell Deadlift @ 50/60/70 (KG: 22.5/27/32)\nSpl
+ it Squat @ 45/45/50 (KG: 20.5/20.5/22.5)\n** SET 2 **\nDumbbell Hinge Row 
+ @ 55/55/60 (KG: 25/25/27)\nIncline Chest Press @ 40/45/50 (KG: 18/20.5/22.
+ 5)\n** SET 3 **\nBarbell Curl @ 10/15/17.5 (KG: 4.5/7/8)\nSeated Shoulder 
+ Press @ 30/40/40 (KG: 13.5/18/18)\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+DESCRIPTION:** SET 1 **\nBarbell Deadlift @ 50/60/70 (KG: 22.5/27/32)\nSqu
+ at @ 50/60/67.5 (KG: 22.5/27/30.5)\n** SET 2 **\nFront Shoulder Raise @ 15
+ /17.5/22.5 (KG: 7/8/10)\nBench Dips\n** SET 3 **\nDumbbell Hinge Row @ 55/
+ 55/60 (KG: 25/25/27)\nNarrow Push Up\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+DESCRIPTION:** SET 1 **\nBarbell Deadlift @ 50/60/70 (KG: 22.5/27/32)\nFro
+ nt Lunge @ 45/45/50 (KG: 20.5/20.5/22.5)\n** SET 2 **\nAlternating Dumbbel
+ l Curl @ 25/30/35 (KG: 11.5/13.5/16)\nSeated Shoulder Press @ 30/40/40 (KG
+ : 13.5/18/18)\n** SET 3 **\nIncline Chest Press @ 40/45/50 (KG: 18/20.5/22
+ .5)\nBench Dips\n
+END:VEVENT
 END:VCALENDAR
